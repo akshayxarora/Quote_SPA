@@ -1,0 +1,14 @@
+.logo img{
+    height: 12rem;
+    width: 12rem;
+}
+
+.main {
+    margin-top: 2.5rem;
+}
+
+
+.blockquote{
+    border: 1px;
+    margin: 2.5rem;
+}
