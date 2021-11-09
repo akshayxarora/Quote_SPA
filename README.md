@@ -1,2 +1,2 @@
-# rap-quotes
-Personal Project which I will host
+# quotes-website
+Quote Single Page Application 
